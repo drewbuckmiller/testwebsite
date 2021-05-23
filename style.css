@@ -1,5 +1,9 @@
 /* Cascading Style Sheets */
 
+body {
+  margin: 0;
+}
+
 main {
   background-color: #D7E3FA;
 /*   border: 1px solid red; */
