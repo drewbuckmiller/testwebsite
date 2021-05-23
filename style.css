@@ -1,0 +1,53 @@
+/* Cascading Style Sheets */
+
+main {
+  background-color: #D7E3FA;
+/*   border: 1px solid red; */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 400px;
+  background-color: #FFFFFF;
+  padding: 32px;
+/*   border: 1px solid red; */
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+h1 {
+  color: #1B212C;
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+/*   border: 1px solid red; */
+  margin-bottom: 0;
+  
+}
+
+p {
+  color: #5E636B;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 8px;
+/*   border: 1px solid red; */
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border-radius: 9999px;
+/*   border: 1px solid red; */
+}
+
+.links {
+  
+}
+
+a {
+  margin: 8px;
+/*   border: 1px solid red; */
+}
